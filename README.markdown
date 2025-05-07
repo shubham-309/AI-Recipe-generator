@@ -106,7 +106,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, reach out via [email@example.com](mailto:email@example.com) or open an issue on GitHub.
+For questions or feedback, open an issue on GitHub.
 
 ---
 Built with ❤️ by Shubham
